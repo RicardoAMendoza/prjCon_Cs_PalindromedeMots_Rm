@@ -10,3 +10,9 @@ D:\11.CV\28.Fernand_LEVIO\Cs_CodeNET\prjCon_Cs_PalindromedeMots\prjCon_Cs_Palind
 D:\11.CV\28.Fernand_LEVIO\Cs_CodeNET\prjCon_Cs_PalindromedeMots\prjCon_Cs_PalindromedeMots\bin\Debug\prjCon_Cs_PalindromedeMots.exe
 D:\11.CV\28.Fernand_LEVIO\Cs_CodeNET\prjCon_Cs_PalindromedeMots\prjCon_Cs_PalindromedeMots\bin\Debug\prjCon_Cs_PalindromedeMots.pdb
 D:\11.CV\28.Fernand_LEVIO\Cs_CodeNET\prjCon_Cs_PalindromedeMots\prjCon_Cs_PalindromedeMots\obj\Debug\prjCon_Cs_PalindromedeMots.csprojResolveAssemblyReference.cache
+D:\10.Portafolio\prjCon_Cs_PalindromedeMots_Rm\prjCon_Cs_PalindromedeMots\bin\Debug\prjCon_Cs_PalindromedeMots.exe.config
+D:\10.Portafolio\prjCon_Cs_PalindromedeMots_Rm\prjCon_Cs_PalindromedeMots\obj\Debug\prjCon_Cs_PalindromedeMots.exe
+D:\10.Portafolio\prjCon_Cs_PalindromedeMots_Rm\prjCon_Cs_PalindromedeMots\obj\Debug\prjCon_Cs_PalindromedeMots.pdb
+D:\10.Portafolio\prjCon_Cs_PalindromedeMots_Rm\prjCon_Cs_PalindromedeMots\bin\Debug\prjCon_Cs_PalindromedeMots.exe
+D:\10.Portafolio\prjCon_Cs_PalindromedeMots_Rm\prjCon_Cs_PalindromedeMots\bin\Debug\prjCon_Cs_PalindromedeMots.pdb
+D:\10.Portafolio\prjCon_Cs_PalindromedeMots_Rm\prjCon_Cs_PalindromedeMots\obj\Debug\prjCon_Cs_PalindromedeMots.csprojResolveAssemblyReference.cache

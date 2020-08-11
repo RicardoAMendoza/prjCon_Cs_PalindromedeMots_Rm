@@ -4,7 +4,7 @@
 -- Montréal Québec Canada
 
 Description - In this project we will develop a program to develop a Palindrome in C # .NET.
-RicardoAMendoza/prjCon_Cs_PalindromedeMots_Rm.git
+https://github.com/RicardoAMendoza/prjCon_Cs_PalindromedeMots_Rm.git
 
 -- TITLE
 1. create repository in GitHub : prjCon_Cs_PalindromedeMots_Rm
@@ -14,8 +14,6 @@ RicardoAMendoza/prjCon_Cs_PalindromedeMots_Rm.git
    git init
 5. git add README.md
 6. git add .
-
-
 7. git commit -m "My first commit"
 8. git remote add origin RicardoAMendoza/prjCon_Cs_PalindromedeMots_Rm.git
 9. git push -u origin master
