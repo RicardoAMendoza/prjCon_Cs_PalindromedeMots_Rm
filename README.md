@@ -14,4 +14,5 @@ In this project we will develop a program to find a number par inside an Array i
 
 * [C# Arrays](https://www.w3schools.com/cs/cs_arrays.asp)
 * [String.Substring Method](https://docs.microsoft.com/en-us/dotnet/api/system.string.substring?view=netcore-3.1#:~:text=To%20extract%20a%20substring%20that,position%20in%20the%20current%20string.)
-
+* [StringBuilder.Append Method](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder.append?view=netcore-3.1)
+* [Regex.Replace Method](https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions.regex.replace?view=netcore-3.1)
